@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Delegate Executor usage guidance to the canonical skill served by Executor's MCP `skills` tool.
+
 ## 0.1.0
 
 - Add the Executor Cloud MCP connection.
