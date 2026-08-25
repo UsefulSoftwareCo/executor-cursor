@@ -2,7 +2,7 @@
   "name": "executor",
   "displayName": "Executor",
   "version": "0.1.0",
-  "description": "Connect Cursor to every integration configured in Executor through one governed MCP catalog.",
+  "description": "Connect and operate every API and MCP server in Executor from Cursor. Managed credentials, intelligent tool discovery, and per-tool policies in one governed catalog.",
   "author": {
     "name": "Useful Software Co.",
     "email": "rhys@executor.sh"
