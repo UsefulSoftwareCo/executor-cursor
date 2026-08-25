@@ -2,7 +2,7 @@
   "name": "executor",
   "displayName": "Executor",
   "version": "0.1.0",
-  "description": "Connect and operate every API and MCP server in Executor from Cursor. Managed credentials, intelligent tool discovery, and per-tool policies in one governed catalog.",
+  "description": "A universal tool gateway for AI agents. Connect anything once, then use it across Cursor and every other agent harness.",
   "author": {
     "name": "Useful Software Co.",
     "email": "rhys@executor.sh"

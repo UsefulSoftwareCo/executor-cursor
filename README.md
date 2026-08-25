@@ -1,6 +1,6 @@
 # Executor for Cursor
 
-Connect and operate every API and MCP server in [Executor](https://executor.sh) from Cursor. Managed credentials, intelligent tool discovery, and per-tool policies live in one governed catalog.
+A universal tool gateway for AI agents. Connect anything once, then use it across Cursor and every other agent harness.
 
 Executor lets you configure APIs, MCP servers, authentication, accounts, and per-tool policies once. This plugin connects Cursor to that shared catalog and teaches the agent how to discover and call its tools efficiently.
 
