@@ -1,0 +1,18 @@
+{
+  "name": "executor",
+  "displayName": "Executor",
+  "version": "0.1.0",
+  "description": "Connect Cursor to every integration configured in Executor through one governed MCP catalog.",
+  "author": {
+    "name": "Useful Software Co.",
+    "email": "rhys@executor.sh"
+  },
+  "homepage": "https://executor.sh",
+  "repository": "https://github.com/UsefulSoftwareCo/executor-cursor",
+  "license": "MIT",
+  "keywords": ["executor", "mcp", "integrations", "api", "tools"],
+  "logo": "assets/executor-icon.png",
+  "mcpServers": "mcp.json",
+  "skills": "skills/",
+  "commands": "commands/"
+}
