@@ -15,7 +15,7 @@ assert.match(manifest.name, /^[a-z0-9](?:[a-z0-9.-]*[a-z0-9])?$/);
 assert.equal(manifest.name, "executor");
 assert.match(manifest.version, /^\d+\.\d+\.\d+$/);
 assert.equal(manifest.mcpServers, "mcp.json");
-assert.equal(mcp.mcpServers.executor.url, "https://executor.sh/mcp");
+assert.equal(mcp.mcpServers.executor.url, "https://mcp.executor.sh/mcp");
 assert.deepEqual(Object.keys(mcp.mcpServers), ["executor"]);
 
 for (const referencedPath of [
