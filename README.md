@@ -29,7 +29,7 @@ Executor may pause a tool call for authentication or approval. Complete the requ
 
 ## What this plugin includes
 
-- The hosted Executor MCP endpoint at `https://executor.sh/mcp`
+- The hosted Executor MCP endpoint at `https://mcp.executor.sh/mcp`
 - A skill for discovering and invoking Executor integrations
 - An `/executor-setup` connection check
 
