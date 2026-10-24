@@ -8,7 +8,9 @@ Executor lets you configure APIs, MCP servers, authentication, accounts, and per
 
 ### Cursor Marketplace
 
-Install **Executor** from Cursor's Customize page, then choose **Connect** and complete the Executor sign-in flow.
+Install **Executor** from Cursor's Customize page, then choose **Connect**. Executor opens in your browser: sign in, choose the organization Cursor should use and approve the connection. The connection stays bound to that organization. To use a different one, connect again and choose it.
+
+Add apps and connect their accounts at [app.executor.sh](https://app.executor.sh).
 
 ### Local development
 
@@ -30,7 +32,7 @@ Executor may pause a tool call for authentication or approval. Complete the requ
 ## What this plugin includes
 
 - The hosted Executor MCP endpoint at `https://mcp.executor.sh/mcp`
-- A skill for discovering and invoking Executor integrations
+- A skill for finding and calling Executor apps with the `skills`, `search`, `describe`, `call`, `execute` and `resume` tools
 - An `/executor-setup` connection check
 
 ## Development

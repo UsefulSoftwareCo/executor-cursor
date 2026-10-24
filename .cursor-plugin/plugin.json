@@ -1,7 +1,7 @@
 {
   "name": "executor",
   "displayName": "Executor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A universal tool gateway for AI agents. Connect anything once, then use it across Cursor and every other agent harness.",
   "author": {
     "name": "Useful Software Co.",
