@@ -51,7 +51,7 @@ Never repeat the call or run the program again to get past a pause or a refusal.
 
 ## Accounts and credentials
 
-Executor attaches credentials inside the app, so you never handle them. Never ask the user to paste a token, key or password into chat, and never read one from their files. If an app is missing an account, have Executor create a connection link and give it to the user, or send them to the app's Accounts tab at [app.executor.sh](https://app.executor.sh).
+Executor attaches credentials inside the app, so you never handle them. Never ask the user to paste a token, key or password into chat, and never read one from their files. If an app is missing an account, send the user to the app's Accounts tab at [app.executor.sh](https://app.executor.sh).
 
 ## When Executor is missing
 
