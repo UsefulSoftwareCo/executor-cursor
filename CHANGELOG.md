@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.1.1
 
 - Use `https://mcp.executor.sh/mcp` for the shared Cursor and Grok Bot plugin connection.
 - Delegate Executor usage guidance to the canonical skill served by Executor's MCP `skills` tool.
